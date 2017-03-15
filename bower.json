@@ -1,0 +1,14 @@
+{
+  "author": "Roman Lykov",
+  "name": "Mobilization",
+  "email": "lykovrs@gmail.com",
+  "version": "0.0.0",
+  "ignore": [
+    ".enb/tmp",
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bem-core": "v2.8.0"
+  }
+}
